@@ -1,7 +1,7 @@
 # KLab Logo
 This is repo for making logo for [KLab](https://klab.sh) project.
 
-GitHub has read-only mirror. Main repo is [here](https://git.klab.sh/art/klab-logo).
+GitHub has read-only mirror. Main repo is [here](https://git.klab.sh/klab/logo).
 
 ## About:Sources
 * Initial flask picture is made by [Grant Fisher](https://dribbble.com/Grantmfisher)
