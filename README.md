@@ -6,7 +6,9 @@ GitHub has read-only mirror. Main repo is [here](https://git.klab.sh/art/klab-lo
 ## About:Sources
 * Initial flask picture is made by [Grant Fisher](https://dribbble.com/Grantmfisher)
 
-* Flask picture is enlarged by [PhotoEnlarger.com](https://www.photoenlarger.com)
+* Flask picture is enlarged with [PhotoEnlarger.com](https://www.photoenlarger.com)
+
+* Favicon pack made by [RealFaviconGenerator](https://realfavicongenerator.net)
 
 ## About:Logo
 ### Colors
