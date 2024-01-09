@@ -10,9 +10,22 @@ GitHub has read-only mirror. Main repo is [here](https://git.klab.sh/art/klab-lo
 
 ## About:Logo
 ### Colors
-* `K` - cold white
-* `Lab` - half-green
-* `{:}` - green  
+#### Background colors
+* background aka KLab Main c - R84 G182 B252 (`#54b6fc`)
+* bubbles text - black R0 G0 B0 (`#000000`)
 
-### Fonts
-Pebble 
+#### Text Colors
+* `K` - white aka R255 G255 B255 (`#ffffff`)
+* `Lab` - half-yellow aka R255 G255 B125 (`#ffff7d`)
+* `{:}` - green R0 G255 B0 (`#00ff00`)
+
+
+### Fonts and Sizes
+[Pebble-Regular](fonts/Pebble-Regular.woff2)
+
+### Bubbles
+* Main part - small ones 48, big one - 87
+* Upper part - on flask 36, big one - 72, small one - 32
+
+### Text
+Size: 333
